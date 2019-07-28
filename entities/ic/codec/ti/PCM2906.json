@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "96a08fc2-a030-4e4a-a45b-c8db8058c648": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "83174e49-19a5-4b18-862e-689ca9ca19c5"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "PCM2906CDB",
+    "prefix": "U",
+    "tags": [
+        "audio",
+        "codec",
+        "ic",
+        "usb"
+    ],
+    "type": "entity",
+    "uuid": "fa01b057-3b12-4182-9183-223759c2de43"
+}

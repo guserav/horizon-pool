@@ -1,0 +1,150 @@
+{
+    "MPN": [
+        false,
+        "PCM2906CDB"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/ds/symlink/pcm2904.pdf"
+    ],
+    "description": [
+        false,
+        "Stereo Audio Codec with USB Interface, single-ended analog I/O and S/PDIF"
+    ],
+    "entity": "fa01b057-3b12-4182-9183-223759c2de43",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "f02ec7c5-a36c-407e-9eb3-c2cc11c95078",
+    "pad_map": {
+        "052b5ef7-0f6e-4103-8bf9-ef62b8e41f4a": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "dd3674af-c8ae-4dde-adf7-bc7f25da291a"
+        },
+        "11e276e1-aa71-4a99-839a-d3a9fc27706b": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "dddf19b9-ad42-4e7e-bb1d-727fe37b9044"
+        },
+        "16a17e0b-0baa-4874-8826-9be060912007": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "463cdcdd-9c96-45e0-b4e4-d1d900511c99"
+        },
+        "18a504fd-71ad-4f62-845b-18c70b173598": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "aa373a77-3e04-4fda-a2cc-ce2a39e9eb6c"
+        },
+        "19df8dcc-ad9a-4450-9254-5b94e530a1b5": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "53c1c89f-f2d9-4196-9a0b-a75b7ed0752d"
+        },
+        "2635158a-96d2-4514-9c21-537971bddc28": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "ca992779-abb1-4d2b-8632-b641ba771b03"
+        },
+        "3100eb19-0212-413c-a34d-697b42e0e1f9": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "91f079ef-db8b-4719-82fc-444a470352a2"
+        },
+        "3136ca5b-ef54-4359-8ca8-e9aabcfe5636": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "189be5d0-b391-4592-9e9b-861ba151b781"
+        },
+        "34b519f8-b6be-4785-96ef-5aa0a434b0ea": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "cc90cd18-547d-4860-8181-81f4cd09fe67"
+        },
+        "4bad27c7-ec06-4f41-a750-93b687f3e32b": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "5e374e64-7ce0-479b-88f3-46565568cbb0"
+        },
+        "4e778826-fde3-4a73-b9ca-3cf0764f7f86": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "e375ff19-93f6-474e-a029-5255c2a6fa8f"
+        },
+        "5948952b-a7ee-4761-ad28-3ddd4e27395b": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "b327cc75-0d2d-404a-a56f-39fd95ecb4b9"
+        },
+        "5a712db2-e85e-4c4c-afbc-bb2b4c7618ef": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "a2c36632-c94b-4b6e-be69-3fa6797c78b5"
+        },
+        "7e32ca6b-eaba-4941-928d-dd7e754a9917": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "dd6013d1-c9fa-4d3c-adf7-25609c69ae33"
+        },
+        "8522077a-7930-47a9-b05d-5ce367556b4f": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "6c4d4fb8-b514-4969-8f08-fd30717c83a8"
+        },
+        "a30a4b81-4a8a-4448-a664-b32f0b1d43e2": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "606638b5-fe3b-484f-b1cf-0b178ca1a2d6"
+        },
+        "b2756b2b-0dec-46cb-8cdd-2448f9b113e3": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "03f21a58-dd93-4f09-a550-3334ff1fdfd8"
+        },
+        "bf5dfadb-5e36-447e-b73d-2de8f041c7b7": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "4ccdcd54-3b3c-4415-b335-5fe03088587f"
+        },
+        "c7805ba4-0d32-41aa-91c4-f2d72e68d493": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "c3722fab-ad60-45e0-b6be-0b5b1004b387"
+        },
+        "cc74f43e-ec57-428f-9d81-54e063bfb1a5": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "816965b3-3292-4e19-a9d0-08d04c3a7f69"
+        },
+        "d0e3b204-0533-4220-b27f-9fc42168ed78": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "c28559aa-8a72-4fbe-85d6-5253e2e7edad"
+        },
+        "d948ec21-5f43-40a6-8d2e-fbeed34c32e9": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "ceeeae3a-8511-408d-8392-3748b82234b1"
+        },
+        "df4ec436-6fef-411e-bc50-18718fa9427f": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "2430753c-fb58-49b9-8ba5-c1a64b6d5e57"
+        },
+        "eb53e435-b698-4ce9-b048-bebfcc7e82f4": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "5b749ca3-50c7-49e6-9169-7c2d60a949e1"
+        },
+        "eb6a761c-ef92-4675-a673-30d08f6b6e39": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "bfe6c5f0-40d2-433d-b9ad-aaa9a268e831"
+        },
+        "effb1835-20c6-4ae0-b102-2f07731310d2": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "f6457b65-fa96-4114-8f9a-dc0424e12a1c"
+        },
+        "f5289484-04b6-414a-92df-6ce97fce56ca": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "cf54f3c1-7c6d-4086-aa19-c709a9b29f9d"
+        },
+        "f83cc15b-618d-40bf-8ba9-e37f0802feeb": {
+            "gate": "96a08fc2-a030-4e4a-a45b-c8db8058c648",
+            "pin": "cfeab9f8-b6b6-4388-930c-7698be5b6147"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "audio",
+        "codec",
+        "ic",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "6ea27c62-f9dc-423e-9846-c1ad473253e9",
+    "value": [
+        false,
+        ""
+    ]
+}
