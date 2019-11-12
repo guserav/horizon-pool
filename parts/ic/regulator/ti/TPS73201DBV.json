@@ -1,0 +1,63 @@
+{
+    "MPN": [
+        false,
+        "TPS73201DBV"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/ds/symlink/tps732.pdf"
+    ],
+    "description": [
+        false,
+        "Capacitor-Free, NMOS, 250-mA Low-Dropout Regulator With Reverse Current protection"
+    ],
+    "entity": "13c9d91d-906a-4987-8f58-1075cdd59897",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "d72fc8d1-69ba-46d8-b9f1-63cf4b4b4907",
+    "orderable_MPNs": {
+        "39b0ca4b-9480-43b0-8112-a1e83e81bc5f": "TPS73201DBVTG4",
+        "53f46359-af96-4071-b157-641e9543e19e": "TPS73201DBVRG4",
+        "c5217c49-5472-4e08-a852-a1b3908dea80": "TPS73201DBVT",
+        "e41a6109-f3b0-4589-b0c2-38744dd536b6": "TPS73201DBVR"
+    },
+    "package": "624b7467-2d56-4d8c-b89b-6bffff5f05e9",
+    "pad_map": {
+        "1ff65f5a-efed-46a2-a9dd-a29f42fae9f2": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
+        },
+        "5023176e-0188-4b78-a106-dc18dc65880b": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "5296f33f-6e8e-4657-9d1d-9491ae2a717a"
+        },
+        "59f542a7-e248-47de-b0f5-6a79c7761d7c": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "2f2e33ae-ea54-4fc9-b2c0-e6be3e1d02e0"
+        },
+        "95821a81-23a1-4f75-8de0-b3f0b7575311": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
+        },
+        "dfd8347a-b99f-42c2-9401-0a63ce9667dc": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "ldo",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "fcdbed66-434a-427a-97f6-9a935f7711e8",
+    "value": [
+        false,
+        ""
+    ]
+}
