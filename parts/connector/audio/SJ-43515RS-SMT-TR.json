@@ -1,0 +1,58 @@
+{
+    "MPN": [
+        false,
+        "SJ-43515RS-SMT-TR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.cuidevices.com/product/resource/digikeypdf/sj-4351x-smt.pdf"
+    ],
+    "description": [
+        false,
+        "3.5mm Audio Jack, TRRS"
+    ],
+    "entity": "c5dcff91-a22c-4c27-84c8-c208a44b8425",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "CUI"
+    ],
+    "model": "4e469bcd-8222-4eeb-8da4-ed4edebe9bc5",
+    "package": "3e28098e-d2ef-42f7-936c-5c263e45e0b4",
+    "pad_map": {
+        "15a0cfde-3ab7-4591-9d66-5e7dac028a15": {
+            "gate": "5bf4854d-b825-4420-bfa8-f17e3d69ecca",
+            "pin": "9fef5cf8-2378-492b-b9c2-bc6a5da03b27"
+        },
+        "4c12aadc-75e3-48f7-a682-7f8ff62edd6a": {
+            "gate": "5bf4854d-b825-4420-bfa8-f17e3d69ecca",
+            "pin": "b70bafdb-12b2-4764-ac14-6a59e4eb1b7a"
+        },
+        "aa0cbba2-5e73-4fc7-af8b-7629eca5dfa6": {
+            "gate": "5bf4854d-b825-4420-bfa8-f17e3d69ecca",
+            "pin": "327a3ba2-cbc7-4fa3-b765-a6e133d28cb1"
+        },
+        "c6ec42c2-47d1-4dc4-a23d-9659baa340f7": {
+            "gate": "5bf4854d-b825-4420-bfa8-f17e3d69ecca",
+            "pin": "f572c752-5e2e-4d4f-8b8c-95c379a19121"
+        },
+        "fff3ef97-992d-48b2-b3db-1860efcbab81": {
+            "gate": "5bf4854d-b825-4420-bfa8-f17e3d69ecca",
+            "pin": "4c210f59-aa02-4af9-8137-c2dcdb738cda"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "3.5mm",
+        "audio",
+        "jack",
+        "trrs"
+    ],
+    "type": "part",
+    "uuid": "e47aa8f9-7897-420f-8fa1-f45c55926d05",
+    "value": [
+        false,
+        ""
+    ]
+}
