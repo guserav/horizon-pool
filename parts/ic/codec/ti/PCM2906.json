@@ -5,20 +5,20 @@
     ],
     "datasheet": [
         false,
-        "http://www.ti.com/lit/ds/symlink/pcm2904.pdf"
+        "http://www.ti.com/lit/gpn/pcm2906c"
     ],
     "description": [
         false,
         "Stereo Audio Codec with USB Interface, single-ended analog I/O and S/PDIF"
     ],
     "entity": "fa01b057-3b12-4182-9183-223759c2de43",
-    "inherit_model": true,
+    "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
         false,
         "Texas Instruments"
     ],
-    "model": "00000000-0000-0000-0000-000000000000",
+    "model": "69910619-892a-4dcb-af36-bf5625395884",
     "package": "f02ec7c5-a36c-407e-9eb3-c2cc11c95078",
     "pad_map": {
         "052b5ef7-0f6e-4103-8bf9-ef62b8e41f4a": {
