@@ -1,0 +1,26 @@
+{
+    "gates": {
+        "ecb4d489-45e1-4afa-8cfe-e0eb7733103b": {
+            "name": "B",
+            "suffix": "B",
+            "swap_group": 1,
+            "unit": "be3a5040-441d-4d03-9b84-0a97ee3912e7"
+        },
+        "fce9dd5c-7849-447d-a663-e2cf8fccc5e2": {
+            "name": "A",
+            "suffix": "A",
+            "swap_group": 1,
+            "unit": "be3a5040-441d-4d03-9b84-0a97ee3912e7"
+        }
+    },
+    "manufacturer": "",
+    "name": "Dual Potentiometer",
+    "prefix": "RV",
+    "tags": [
+        "generic",
+        "passive",
+        "potentiometer"
+    ],
+    "type": "entity",
+    "uuid": "58080736-8b9e-49a8-998b-dccbc6c04c94"
+}

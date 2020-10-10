@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "e8ef9322-5d8a-477e-bbab-dac26e206d03": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "be3a5040-441d-4d03-9b84-0a97ee3912e7"
+        }
+    },
+    "manufacturer": "",
+    "name": "Potentiometer",
+    "prefix": "RV",
+    "tags": [
+        "generic",
+        "passive",
+        "trimmer"
+    ],
+    "type": "entity",
+    "uuid": "fedfe67b-83fd-4e70-beb0-a8ab20660f82"
+}
