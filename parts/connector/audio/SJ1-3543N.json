@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "SJ1-3543N"
+    ],
+    "datasheet": [
+        false,
+        "https://www.cuidevices.com/product/resource/sj1-354xn-series.pdf"
+    ],
+    "description": [
+        false,
+        "3.5 mm stereo jack"
+    ],
+    "entity": "dfbbc07b-b6e5-48b9-b100-2c3f558eaabc",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "CUI"
+    ],
+    "model": "762e7076-74c0-4208-ac88-996a78387002",
+    "package": "ddc5976f-014a-4b1a-aac4-fd4bd21c8021",
+    "pad_map": {
+        "4a8961f4-473a-4a19-adb7-e6998901335a": {
+            "gate": "874dd3c4-90ce-4ceb-9750-cd22c1be3d03",
+            "pin": "1907195a-d30a-4473-884c-5eb20cafa3fc"
+        },
+        "50be329e-41ea-44eb-91e5-f8d684707aee": {
+            "gate": "874dd3c4-90ce-4ceb-9750-cd22c1be3d03",
+            "pin": "0486f34b-4e1a-4f5d-aaef-4ade6f266d51"
+        },
+        "ccc4ea17-84f2-4746-aeba-8a45690d324f": {
+            "gate": "874dd3c4-90ce-4ceb-9750-cd22c1be3d03",
+            "pin": "2da26364-2c81-436d-9dee-14f0bc8fd15b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "audio",
+        "connector",
+        "stereo"
+    ],
+    "type": "part",
+    "uuid": "ac0dfa53-172a-49ea-97d5-01bf74bdfb15",
+    "value": [
+        false,
+        ""
+    ]
+}

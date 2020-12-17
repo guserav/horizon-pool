@@ -1,0 +1,74 @@
+{
+    "manufacturer": "ON Semiconductor",
+    "name": "NCP2811ADTBR2G",
+    "pins": {
+        "1e273ac6-e3c7-4767-8281-0dcb83f330b6": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTR",
+            "swap_group": 0
+        },
+        "40fa643b-9a3a-4071-b71b-54f12761bd89": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AGND",
+            "swap_group": 0
+        },
+        "5fc033ac-1bfd-4494-8f52-eb91efc5d0a8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CPM",
+            "swap_group": 0
+        },
+        "6bc05e46-23da-4aeb-a1b3-0574e0e3e231": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CPP",
+            "swap_group": 0
+        },
+        "81e7ed48-fa00-4271-9e17-710a1dfaf2dc": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PVM",
+            "swap_group": 0
+        },
+        "8b2cf221-63b9-4067-9d93-1872bb4cbf87": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VP",
+            "swap_group": 0
+        },
+        "97fdc539-a37c-49d5-ba8f-fcc12310a48e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "9948151a-b112-430b-ae54-649116986231": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INR",
+            "swap_group": 0
+        },
+        "ab64b9e8-b8b8-4df6-b156-cd7364cffe47": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTL",
+            "swap_group": 0
+        },
+        "ad9c14dc-5b4e-4c80-bbe2-f04cf6b0e46e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INL",
+            "swap_group": 0
+        },
+        "c163541f-ba9c-44da-bea0-38d4a6861a58": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a9dcf8a1-9b83-42ad-8a17-3b32488cf777"
+}

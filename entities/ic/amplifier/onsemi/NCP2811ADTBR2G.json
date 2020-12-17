@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "317789d2-18a0-469b-8966-1fdac08c6f39": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a9dcf8a1-9b83-42ad-8a17-3b32488cf777"
+        }
+    },
+    "manufacturer": "ON Semiconductor",
+    "name": "NCP2811ADTBR2G",
+    "prefix": "U",
+    "tags": [
+        "amplifier",
+        "audio"
+    ],
+    "type": "entity",
+    "uuid": "781fddcc-64ae-4bda-acca-ed2c1100e5ac"
+}

@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "PESD5V0S2BT,215"
+    ],
+    "datasheet": [
+        false,
+        "https://assets.nexperia.com/documents/data-sheet/PESD5V0S2BT.pdf"
+    ],
+    "description": [
+        false,
+        "Low capacitance bidirectional double ESD protection diode"
+    ],
+    "entity": "b25549ee-8edb-41b4-b443-716faa965a58",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia USA Inc."
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "5c2bbd81-0e57-4fb5-8c68-166660e40fa6",
+    "pad_map": {
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "cc991fc3-764a-48c9-9892-e27ead80bf57",
+            "pin": "f9ab99c2-427b-4003-8187-bd98f428b6ab"
+        },
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "cc991fc3-764a-48c9-9892-e27ead80bf57",
+            "pin": "93b6f9ae-6540-41b4-a33a-72d982ad79b8"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "cc991fc3-764a-48c9-9892-e27ead80bf57",
+            "pin": "b06e5d81-9591-4382-860a-cf25cdcc9897"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "esd",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "773a99ab-a8be-4a38-9870-7b462f04a2f6",
+    "value": [
+        false,
+        ""
+    ]
+}

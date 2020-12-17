@@ -1,0 +1,81 @@
+{
+    "MPN": [
+        false,
+        "NCP2811ADTBR2G"
+    ],
+    "datasheet": [
+        false,
+        "https://www.onsemi.com/pub/Collateral/NCP2811-D.PDF"
+    ],
+    "description": [
+        false,
+        "NOCAP Advanced StereoHeadphone Amplifier"
+    ],
+    "entity": "781fddcc-64ae-4bda-acca-ed2c1100e5ac",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "12001aad-23c9-46d2-bfdb-75ffd2479776",
+    "pad_map": {
+        "261fe7ff-1e20-45bc-b96f-0733c16960c4": {
+            "gate": "317789d2-18a0-469b-8966-1fdac08c6f39",
+            "pin": "5fc033ac-1bfd-4494-8f52-eb91efc5d0a8"
+        },
+        "48201ebb-e791-4c91-9bdb-fc069831ade8": {
+            "gate": "317789d2-18a0-469b-8966-1fdac08c6f39",
+            "pin": "40fa643b-9a3a-4071-b71b-54f12761bd89"
+        },
+        "5ea90398-774b-43ec-bd14-db28ef507b64": {
+            "gate": "317789d2-18a0-469b-8966-1fdac08c6f39",
+            "pin": "ab64b9e8-b8b8-4df6-b156-cd7364cffe47"
+        },
+        "6e7efadb-0a82-4a26-8965-513d6ff56219": {
+            "gate": "317789d2-18a0-469b-8966-1fdac08c6f39",
+            "pin": "97fdc539-a37c-49d5-ba8f-fcc12310a48e"
+        },
+        "af643901-6c38-4b1b-b30c-371212d093f7": {
+            "gate": "317789d2-18a0-469b-8966-1fdac08c6f39",
+            "pin": "c163541f-ba9c-44da-bea0-38d4a6861a58"
+        },
+        "b37a46a0-e07e-45ef-87df-bfcbf5f5bf8e": {
+            "gate": "317789d2-18a0-469b-8966-1fdac08c6f39",
+            "pin": "6bc05e46-23da-4aeb-a1b3-0574e0e3e231"
+        },
+        "bf768b4b-3c62-4f52-ac68-910ef1896730": {
+            "gate": "317789d2-18a0-469b-8966-1fdac08c6f39",
+            "pin": "9948151a-b112-430b-ae54-649116986231"
+        },
+        "e63a42e9-c280-4bc3-bf38-968baa5264c1": {
+            "gate": "317789d2-18a0-469b-8966-1fdac08c6f39",
+            "pin": "8b2cf221-63b9-4067-9d93-1872bb4cbf87"
+        },
+        "e7483de8-0fee-46dc-a2d6-76e13d0a4a35": {
+            "gate": "317789d2-18a0-469b-8966-1fdac08c6f39",
+            "pin": "1e273ac6-e3c7-4767-8281-0dcb83f330b6"
+        },
+        "ea132ec2-ccad-48a6-8121-3aab161d5867": {
+            "gate": "317789d2-18a0-469b-8966-1fdac08c6f39",
+            "pin": "ad9c14dc-5b4e-4c80-bbe2-f04cf6b0e46e"
+        },
+        "f0ed5f62-ebda-4736-9d7e-6894f8fb8421": {
+            "gate": "317789d2-18a0-469b-8966-1fdac08c6f39",
+            "pin": "81e7ed48-fa00-4271-9e17-710a1dfaf2dc"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "amplifier",
+        "audio",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "db10ba6f-93a9-43d7-841a-cc4153a8daf0",
+    "value": [
+        false,
+        ""
+    ]
+}

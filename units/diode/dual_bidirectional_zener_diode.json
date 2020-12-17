@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "Dual bidirectional zener diode",
+    "pins": {
+        "93b6f9ae-6540-41b4-a33a-72d982ad79b8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K1",
+            "swap_group": 0
+        },
+        "b06e5d81-9591-4382-860a-cf25cdcc9897": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K",
+            "swap_group": 0
+        },
+        "f9ab99c2-427b-4003-8187-bd98f428b6ab": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ec351f36-a86a-4356-a33c-60cadb76d322"
+}

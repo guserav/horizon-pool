@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "RS60112-XXXX-XX-P0"
+    ],
+    "datasheet": [
+        false,
+        "https://tech.alpsalpine.com/prod/e/pdf/potentiometer/slidepotentiometers/rs__1/rs__1.pdf"
+    ],
+    "description": [
+        false,
+        "Dual Slide Potentiometer"
+    ],
+    "entity": "58080736-8b9e-49a8-998b-dccbc6c04c94",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Alps Alpine"
+    ],
+    "model": "2c9291b2-d7a5-48c2-9fef-66833f140ea5",
+    "package": "d6c3e9c7-e361-4811-a30f-552cd1b8dec7",
+    "pad_map": {
+        "1e5c436d-04f4-49dd-a26a-8d70c31ea595": {
+            "gate": "ecb4d489-45e1-4afa-8cfe-e0eb7733103b",
+            "pin": "28e34869-b366-4bdc-ad9c-37448b360d38"
+        },
+        "4e015538-c803-4bb4-9cfa-f12dcb29623a": {
+            "gate": "fce9dd5c-7849-447d-a663-e2cf8fccc5e2",
+            "pin": "28e34869-b366-4bdc-ad9c-37448b360d38"
+        },
+        "5ea63b5c-60dc-435a-9cf7-a3d427a8751c": {
+            "gate": "ecb4d489-45e1-4afa-8cfe-e0eb7733103b",
+            "pin": "44b00206-9d6d-4d75-a439-283d439b15fa"
+        },
+        "9008028a-d4ee-414a-86e4-6c1db4054580": {
+            "gate": "fce9dd5c-7849-447d-a663-e2cf8fccc5e2",
+            "pin": "44b00206-9d6d-4d75-a439-283d439b15fa"
+        },
+        "a3c266e5-6b82-4c26-834b-8f68967135cf": {
+            "gate": "ecb4d489-45e1-4afa-8cfe-e0eb7733103b",
+            "pin": "0dd5abd5-dd57-496a-84e9-adaff898ccce"
+        },
+        "b41d2454-8268-4d25-b363-0df6aab970dc": {
+            "gate": "fce9dd5c-7849-447d-a663-e2cf8fccc5e2",
+            "pin": "0dd5abd5-dd57-496a-84e9-adaff898ccce"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "passive",
+        "potentiometer"
+    ],
+    "type": "part",
+    "uuid": "9d78c82c-aa00-4064-bb59-73cb0a04bee9",
+    "value": [
+        false,
+        ""
+    ]
+}
